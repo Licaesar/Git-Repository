@@ -1,0 +1,57 @@
+@import "https://fonts.googleapis.com/css?family-Poppins:300,400,500,600,700";
+<!--Letras bonitas-->
+body{
+	font-family: 'Poppins',sans-serif;
+	background: grey !important;
+}
+.img{
+	width: 100%;
+}
+p{
+	font-family: 'Poppins',sans-serif;
+	color: green;
+}
+h1{
+	color: #800080;
+}
+.scrollspySite{
+	position: relative;
+	overflow: auto;
+	height: 355px;
+}
+#inputNome{
+	border: solid;
+}
+#inputEmail{
+	border: solid;
+}
+#inputAssunto{
+	border: solid;
+}
+#inputTextarea{
+	border: solid;
+}
+.corpo{
+	margin: left;
+	width: 960px;
+}
+.conteudo{
+	display: table;
+	border: outset;
+	margin: 20px;
+}
+.imagem{
+	display: table-cell;
+	float: left;
+	margin-top: 5px;
+}
+.texto{
+	display: table-cell;
+	float: left;
+	width: 500px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.jumbotron{
+	position: 
+}
